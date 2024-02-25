@@ -1,3 +1,8 @@
+<p>
+  <a href="https://count.getloli.com/">
+  <img src="https://count.getloli.com/get/@kokororin.github.readme?theme=asoul"></a>
+</p>
+
 <a href="https://github.com/kokororin?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=kokororin&show_icons=true&hide_border=true&hide_rank=true&card_width=100" width="500px" />
 </a>
